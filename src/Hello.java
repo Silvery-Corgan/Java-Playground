@@ -9,5 +9,6 @@ public class Hello
 		System.out.print("Goodbye, ");                      // this is a print statement that doesn't add up a new line
 		System.out.println("cruel world");                  // this one adds up a new line after concatenating it with the previous string
 		System.out.print("Hello!\nHow are you doing?\n");   // add new line manually
+		System.out.println("She said \"Hello!\" to me.");   // add quotation marks
 	}
 }
