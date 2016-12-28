@@ -18,7 +18,7 @@ public class Hello
 
 		message = "Hello ";  // give message the value "Hello!"
 		hour = 11;           // assign the value 11 to hour
-		minute = 59;         // set minute to 59
+		minute = 59.0;         // set minute to 59
 		firstName = "FN";
 		lastName = "LN";
 
@@ -48,5 +48,8 @@ public class Hello
 
 		System.out.print("Percent of the hour that has passed: ");
 		System.out.println(minute * 100 / 60);
+
+		System.out.println(0.1 * 10);
+		System.out.println(0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1);
 	}
 }
