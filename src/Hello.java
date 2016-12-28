@@ -4,7 +4,8 @@ public class Hello
 	public static void main(String[] args)
 	{
 		String message, firstName, lastName;
-		int hour, minute;
+		int hour;
+		double minute;
 
 		// generate some simple output
 		System.out.println("Hello, World!");                // first line
