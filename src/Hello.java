@@ -18,5 +18,20 @@ public class Hello
 		message = "Hello!";  // give message the value "Hello!"
 		hour = 11;           // assign the value 11 to hour
 		minute = 59;         // set minute to 59
+
+		String firstLine = "Hello, again!";
+		System.out.println(firstLine);
+
+		System.out.print("The value of firstLine is: ");
+		System.out.println(firstLine);
+
+		System.out.print("The current time is ");
+		System.out.print(hour);
+		System.out.print(":");
+		System.out.print(minute);
+		System.out.println(".");
+
+		System.out.print("Number of minutes since midnight: ");
+		System.out.println(hour * 60 + minute);
 	}
 }
