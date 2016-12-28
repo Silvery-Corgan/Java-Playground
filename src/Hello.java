@@ -15,9 +15,17 @@ public class Hello
 		System.out.println("She said \"Hello!\" to me.");   // add quotation marks
 		System.out.println("What's up doc?");               // add new statement
 
-		message = "Hello!";  // give message the value "Hello!"
+		message = "Hello ";  // give message the value "Hello!"
 		hour = 11;           // assign the value 11 to hour
 		minute = 59;         // set minute to 59
+		firstName = "FN";
+		lastName = "LN";
+
+		System.out.print(message);
+		System.out.print(" ");
+		System.out.print(firstName);
+		System.out.print(" ");
+		System.out.println(lastName);
 
 		String firstLine = "Hello, again!";
 		System.out.println(firstLine);
