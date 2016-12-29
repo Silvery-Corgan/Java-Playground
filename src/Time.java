@@ -2,6 +2,6 @@ public class Time
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Test");
+		int hour=13, minute=57, second=30;
 	}
 }
