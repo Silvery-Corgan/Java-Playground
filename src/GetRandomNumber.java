@@ -20,7 +20,6 @@ public class GetRandomNumber
 		if (a != b)
 		{
 			System.out.println("a & b = " + a + " & " + b);
-		}
-		else System.out.println("a is b : " + a + " | " + b);
+		} else System.out.println("a is b : " + a + " | " + b);
 	}
 }
