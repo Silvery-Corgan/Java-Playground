@@ -1,4 +1,4 @@
-package translator;
+package Other.PythonChallenges;
 
 import java.util.HashMap;
 import java.util.Map;

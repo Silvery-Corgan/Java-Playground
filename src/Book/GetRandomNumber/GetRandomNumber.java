@@ -1,3 +1,5 @@
+package Book.GetRandomNumber;
+
 import java.util.Random;
 
 public class GetRandomNumber

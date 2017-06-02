@@ -1,3 +1,5 @@
+package Other.BPNRandQ;
+
 import java.util.Random;
 
 public class BPNRandQ

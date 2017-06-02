@@ -1,8 +1,8 @@
-/**
- * This is a ... peculiar ... "Hello World" Example
+package Book.Hello_Worlds.HelloWorld; /**
+ * This is a ... peculiar ... "Book.Hello_Worlds.Hello.Hello.Book.Hello_Worlds.Hello.Hello World" Example
  */
 
-import java.util.*;
+import java.util.Random;
 
 public class HelloWorld
 {
