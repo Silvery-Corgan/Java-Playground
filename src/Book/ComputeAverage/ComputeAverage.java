@@ -3,8 +3,10 @@ package Book.ComputeAverage;
 import java.util.Scanner;
 
 /**
- * @author Sorin-Mihai Oprea
+ * Created by IntelliJ IDEA
+ * @author Sorin
  * @date 2017-06-02
+ * @updated 22:47
  */
 public class ComputeAverage
 {

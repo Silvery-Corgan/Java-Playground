@@ -3,7 +3,10 @@ package Book.ComputeArea.ComputeAreaWithConsoleInput;
 import java.util.Scanner;
 
 /**
- * Created by Sorin on 2017-06-02.
+ * Created by IntelliJ IDEA
+ * @author Sorin
+ * @date 2017-06-02
+ * @updated 22:47
  */
 public class ComputeAreaWithConsoleInput
 {
