@@ -7,8 +7,16 @@ public class ComputeArea
 {
 	public static void main(String[] args)
 	{
-		// Step 1: Read in radius
+		//Declare vars
+		double radius, area;
+
+		//Assign radius
+		radius = 20;
+
 		// Step 2: Compute area
-		// Step 3: Display the area
+		area = radius * radius * 3.14159;
+
+		// Step 3: Display the result
+		System.out.println("Area for circle or radius " + radius + " is " + area);
 	}
 }
